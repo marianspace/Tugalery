@@ -16,15 +16,14 @@
                 <h1>TuGalery</h1>
                 <p>Tu arte cerca</p>
             </div>
-            <nav class="header-right">
-                <ul>
-                    <li><a href="../Tugalery/index.html">Inicio</a></li>
-                    <li><a href="../Tugalery/galeria.html">Obras</a></li>
-                    <li><a href="">Artistas</a></li>
-                    <li><a href="../Tugalery/contacto.html">Contacto</a></li>
-                    <li><a href="">Exposiciones</a></li>
-                    <li><a href="">Reseñas</a></li>
-                </ul>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="galeria.html">Obras</a></li>
+                <li><a href="">Artistas</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+                <li><a href="">Exposiciones</a></li>
+                <li><a href="">Reseñas</a></li>
+            </ul>
             </nav>
         </div>
     </header>
