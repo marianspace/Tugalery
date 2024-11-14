@@ -1,6 +1,7 @@
 # TuGalery
 Front-End JS - Ejercicios Final 
-# Creadora Mariana Constanza
+##### Creadora Mariana Constanza
+Githubpage https://marianspace.github.io/tugalery
 
 Es un proyecto que vengo pensando desde el año pasado.
 Una galeria de arte donde los artistas puedan subir sus obras, darse a conocer y venderlas. 
@@ -11,7 +12,6 @@ Para darle entidad se contactarán a diversos especialistas para que hagan rese�
 **Estructura de la página**:
 1. **Header**: Incluye el nombre y el menú de navegación.
 2. **Carrusel**: Imágenes destacadas de las últimas obras o más populares. Me gustaria que sea Random o aleatorio en un futuro 
-3. **Galería de Obras**: Presenta las obras en formato de "cards" con información relevante.
+3. **Galería de Obras**: Presenta las obras en formato de "cards" con información relevante. Enlace a la ficha técnica
 4. **Reseñas**: Reseñas de obras y artistas.
 5. **Formulario de Contacto**: Formulario para que los usuarios puedan comunicarse.
-6. **Footer**
