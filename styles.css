@@ -1,4 +1,4 @@
-/* Cuerpo */
+/* Body */
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: #ffffff;
@@ -7,7 +7,7 @@ body {
     padding: 0;
 }
 
-/* Header y navegación */
+/* Header */
 header {
     display: flex;
     flex-direction: column;
@@ -51,7 +51,6 @@ nav a {
     margin: 0;
 }
 
-/* Estilos del menú */
 .header-right ul {
     display: flex;
     gap: 1.5rem;
@@ -86,7 +85,7 @@ nav a {
     border-radius: 10px;
 }
 
-/* Galería de obras */
+/* Galería */
 .gallery-container {
     display: grid; 
     grid-template-columns: repeat(3, 1fr);
@@ -135,7 +134,7 @@ nav a {
     font-style: italic;
 }
 
-/* Formulario de Contacto */
+/* Contacto */
 .contact-form {
     padding: 2rem;
     background-color: #e3f6fc;
@@ -184,7 +183,7 @@ footer {
     padding: 1rem;
 }
 
-/* Responsividad */
+/* Responsive */
 @media (max-width: 768px) {
     .header-sections {
         flex-direction: column;
@@ -200,8 +199,8 @@ footer {
 
 .carousel-item {
         max-width: 25%;
-    }
+}
 
 .gallery, .reviews {
         grid-template-columns: 1fr;
-    }
+}

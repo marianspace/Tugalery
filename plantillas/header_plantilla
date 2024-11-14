@@ -31,11 +31,15 @@
 
 
 
+<!-- Contendidp sección -->
 
 
 
 
-
-
+    <footer>
+        <p>&copy; 2024 TuGalery - Todos los derechos reservados</p>
+        <p>Mariana Constanza</p>
+        <p>Redes</p> <!-- iconos de redes -->
+    </footer>
 
 </body>
