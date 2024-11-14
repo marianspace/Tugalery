@@ -27,14 +27,11 @@
             </nav>
         </div>
     </header>
+    <main>
 
+<!-- Contenido sección -->
 
-
-<!-- Contendidp sección -->
-
-
-
-
+    </main>
     <footer>
         <p>&copy; 2024 TuGalery - Todos los derechos reservados</p>
         <p>Mariana Constanza</p>
@@ -42,3 +39,4 @@
     </footer>
 
 </body>
+</html>
