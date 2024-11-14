@@ -105,6 +105,18 @@ nav a {
     transition: transform 0.3s ease;
 }
 
+.card1 {
+    background-color: #ffffff;
+    border: 1px solid #031224;
+    padding: 10px; 
+    border-radius: 10px;
+    max-width: 350px;
+    min-width: 250px;
+    margin: 20px auto;
+    text-align: center; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
 .card h3 {
     color: #0cb7f2;
 }
@@ -117,18 +129,6 @@ nav a {
 
 .card:hover {
     transform: scale(1.05);   /* Efecto de escala al pasar el ratón sobre la card */
-}
-
-.card1 {
-    background-color: #ffffff;
-    border: 1px solid #031224;
-    padding: 10px; 
-    border-radius: 10px;
-    max-width: 350px;
-    min-width: 250px;
-    margin: 20px auto;
-    text-align: center; 
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 /* Reseñas */
